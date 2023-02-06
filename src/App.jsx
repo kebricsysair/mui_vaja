@@ -21,7 +21,6 @@ CssBaseline - ponuja vnaprej dolocene stile
 PhotoCamera - ime ikone, ki smo jo importali
  */
 
-
 const App = () => {
     const classes = useStyles;
     return(
